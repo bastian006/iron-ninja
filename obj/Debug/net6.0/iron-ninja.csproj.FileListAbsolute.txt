@@ -1,0 +1,15 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\bin\Debug\net6.0\iron-ninja.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\bin\Debug\net6.0\iron-ninja.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\bin\Debug\net6.0\iron-ninja.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\bin\Debug\net6.0\iron-ninja.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\bin\Debug\net6.0\iron-ninja.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\iron-ninja.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\iron-ninja.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\iron-ninja.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\iron-ninja.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\iron-ninja.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\iron-ninja.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\refint\iron-ninja.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\iron-ninja.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\iron-ninja.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\iron-ninja\obj\Debug\net6.0\ref\iron-ninja.dll
